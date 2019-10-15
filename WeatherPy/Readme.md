@@ -47,7 +47,12 @@
 
 ## Observation
 Based on the data Analysis, below are the observation / findings. 
-* The 
+* From Temperature Vs Latitude plot, we can observe very low temperature reading at the 2 ends of the Latitude -60 (South 60 degree) and 80 (North 80 degree). showing farther from Equator the temperature is low. 
+* And from the Temperature Vs Latitude graph, we can observe the perperature gets higher (hotter) as we move towards to Tropic and to Equator. 
+* from the above two observation, we can conclude that as we move towards Equator the temperature increased, and gets hotter. 
+* Since other factors also affects temperature, we can see some very low temperature readings (44 F) in the equator,this may be due to the time of the day, elivation of the city etc. 
+* We can also see some really high temperature at the S Tropic, this can be again attributed to the season of the year, when sun is at top of the Tropic, away from equator. 
+* Cannot get considerable observation from Humidity, Cloudiness and Wind speed vs the latitude, as this can be depend on elivation from see level, season of the year and other major weather events. 
 
 
 ### Thank you 
