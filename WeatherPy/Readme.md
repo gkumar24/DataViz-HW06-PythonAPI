@@ -20,6 +20,9 @@
 ## Complete Jupyter Notebook Code
 * [Weather Py API code](/WeatherPy.ipynb)
 
+### Citi Weather Data pulled from API, as CSV file 
+* [City weather Data CSV](Output/Cities_Weather.csv)
+
 ### 1. Temperature Vs Latitude
 * Plot the recorded temperature for the cities, based on the latitude of the cities.
 * Observe if the temperature increase or decrease while going towards Equator i.e. Latitude of 0 degree. 
